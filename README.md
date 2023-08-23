@@ -52,6 +52,31 @@ HTML, CSS, Javascript, React, Spring boot, Mysql, sts4...
 ![Static Badge](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/badgeContent:springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
+
+
+![Static Badge](https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/springboot-6DB33F?logo=springboot&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/springsecurity-6DB33F?logo=springsecurity&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/mybatis-FF6C37?logo=mybatis&logoColor=white)
+
+
 <!--3.이미지-->
 <!--마크다운 원본문서그대로보여줄때만 씀-->
 <!-- 변형시 html태그사용-->
